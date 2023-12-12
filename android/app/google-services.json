@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138614129206",
+    "project_id": "areea-60ed7",
+    "storage_bucket": "areea-60ed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138614129206:android:d59d968c5996c0dbfa0e97",
+        "android_client_info": {
+          "package_name": "com.example.areea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsVERukQIq0NXc_0LSxrOkWspEtjdLgV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
